@@ -1,6 +1,8 @@
 ## Data Science Specialization - Drafts
 
 <b>Author</b>: Patricia Chavez
+
+
 <b>Environment</b>:                                  
      * platform       x86_64-w64-mingw32          
      * language       R                           
